@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "compute.es"]
+	path = compute.es
+	url = https://github.com/cran/compute.es
+	shallow = true
+	registered = true
+[submodule "MAd"]
+	path = MAd
+	url = https://github.com/cran/MAd
+	shallow = true
+	registered = true
+[submodule "RcmdrPlugin.MA"]
+	path = RcmdrPlugin.MA
+	url = https://github.com/cran/RcmdrPlugin.MA
+	shallow = true
+	registered = true
