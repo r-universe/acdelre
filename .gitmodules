@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "compute.es"]
-	path = compute.es
-	url = https://github.com/cran/compute.es
 [submodule "MAd"]
 	path = MAd
 	url = https://github.com/cran/MAd
 [submodule "RcmdrPlugin.MA"]
 	path = RcmdrPlugin.MA
 	url = https://github.com/cran/RcmdrPlugin.MA
+[submodule "compute.es"]
+	path = compute.es
+	url = https://github.com/cran/compute.es
