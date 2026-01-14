@@ -8,6 +8,3 @@
 [submodule "RcmdrPlugin.MA"]
 	path = RcmdrPlugin.MA
 	url = https://github.com/cran/RcmdrPlugin.MA
-[submodule "compute.es"]
-	path = compute.es
-	url = https://github.com/cran/compute.es
