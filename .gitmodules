@@ -5,6 +5,3 @@
 [submodule "MAd"]
 	path = MAd
 	url = https://github.com/cran/MAd
-[submodule "RcmdrPlugin.MA"]
-	path = RcmdrPlugin.MA
-	url = https://github.com/cran/RcmdrPlugin.MA
